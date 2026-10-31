@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 665 214" role="img" aria-label="Classora Studio"><defs>
+<linearGradient id="csBlue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#60A5FA"/><stop offset="0.38" stop-color="#1477D7"/><stop offset="1" stop-color="#0869C8"/></linearGradient>
+<linearGradient id="csC" x1="0.04" y1="0" x2="0.90" y2="1"><stop offset="0" stop-color="#187DDB"/><stop offset="0.48" stop-color="#0869C8"/><stop offset="1" stop-color="#0554AC"/></linearGradient>
+<linearGradient id="csSky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7EB7FF"/><stop offset="1" stop-color="#4E9AF3"/></linearGradient>
+<linearGradient id="csTile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#293764"/><stop offset="0.58" stop-color="#1C284F"/><stop offset="1" stop-color="#10172D"/></linearGradient>
+<linearGradient id="csTileLight" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F4F6F9"/></linearGradient>
+<filter id="csSoftShadow" x="-20%" y="-20%" width="140%" height="150%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<g transform="translate(12 13) scale(.58)"><g><path d="M 266 28 H 72 Q 35 28 35 64 V 208 Q 35 246 73 246 H 267" stroke="url(#csBlue)" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.93"/>
+<path d="M 305 85 V 202" stroke="url(#csSky)" stroke-width="17" stroke-linecap="round" fill="none"/>
+<rect x="140" y="247" width="65" height="36" rx="2" fill="url(#csBlue)"/>
+<path d="M 128 279 H 216 Q 238 279 243 301 H 101 Q 106 279 128 279 Z" fill="url(#csBlue)"/><path d="M 222 81 C 203 45 168 27 126 27 C 69 27 35 72 35 136 C 35 198 70 245 126 245 C 169 245 203 224 222 190 L 181 175 C 169 195 153 205 132 205 C 96 205 77 178 77 136 C 77 96 97 70 132 70 C 153 70 170 80 181 96 Z" fill="url(#csC)"/><path d="M 227 121 L 287 57 M 228 150 L 287 218" fill="none" stroke="url(#csSky)" stroke-width="15" stroke-linecap="round"/>
+<circle cx="222" cy="136" r="27" fill="url(#csSky)"/>
+<circle cx="298" cy="49" r="27" fill="url(#csSky)"/>
+<circle cx="298" cy="226" r="27" fill="url(#csSky)"/></g></g>
+<g fill="#FFFFFF" font-family="Segoe UI Variable, Segoe UI, Inter, Arial, sans-serif">
+<text x="220" y="103" font-size="85" font-weight="700" letter-spacing="-2">Classora</text>
+<text x="220" y="182" font-size="76" font-weight="300" letter-spacing="0">Studio</text></g>
+</svg>
