@@ -1,0 +1,7 @@
+# Classora Studio
+
+> Phần mềm quản lý phòng máy tính trường học, giám sát màn hình học sinh thời gian thực và dạy học tương tác qua mạng LAN (offline-first).
+
+- [Trang chủ](https://classora.vdt.io.vn/): Giới thiệu các tính năng quản lý phòng máy, giám sát màn hình và Game Hub.
+- [Tải bộ cài đặt](https://classora.vdt.io.vn/#download): Tải bản cài đặt Teacher Admin và Student Client cho Windows 10/11.
+- [Tài liệu hướng dẫn](https://classora.vdt.io.vn/#guide): Hướng dẫn cấu hình mạng LAN, cổng firewall (39281, 39282, 39283, 39284) và xử lý sự cố.
